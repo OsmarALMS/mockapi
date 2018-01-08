@@ -1,4 +1,4 @@
-package com.telefonica.poccall;
+package com.telefonica.mockapi;
 
 import com.telefonica.mockapi.dao.MockTableDAO;
 import com.telefonica.mockapi.utils.ServicosEnum;

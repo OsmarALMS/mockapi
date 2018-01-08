@@ -1,4 +1,4 @@
-package com.telefonica.poccall;
+package com.telefonica.mockapi;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
